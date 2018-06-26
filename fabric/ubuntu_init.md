@@ -19,15 +19,15 @@
 
   解压所有包目录
 
-  ```
-    ├── base
-        ├── go
+```
+├── base
+	├── go
 	├── jdk1.8.0_144
 	├── node-v6.9.4-linux-x64
-	├── GoLand-2018.1.5               tool
-	├── WebStorm-181.5281.31          tool
+	├── GoLand-2018.1.5                    tool
+	├── WebStorm-181.5281.31               tool
 
-  ```
+```
 
   ## 环境变量配置
 
