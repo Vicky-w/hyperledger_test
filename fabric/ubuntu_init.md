@@ -120,7 +120,7 @@ Node 版本
      docker-compose version 1.21.2, build a133471
   ```
 
-  ## 合约依赖
+  ## 智能合约依赖
 
    - `apt-get install -y libsnappy-dev zlib1g-dev libbz2-dev libltdl-dev libtool`
 
