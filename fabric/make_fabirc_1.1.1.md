@@ -3,7 +3,7 @@ Make Fabric Images
 version:x86_64-1.1.1-snapshot-ff5e861
 
 
-#Fabric 源码
+# Fabric 源码
 
 - `cd /home/vickywang/myCode/go/gopath/src/github.com/hyperledger`
 - `git clone https://github.com/hyperledger/fabric.git`
